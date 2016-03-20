@@ -1,6 +1,8 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MassGuyProto.CSharp.Plugins", "MassGuyProto.CSharp.Plugins.csproj", "{8EE74FE8-5AE6-FA1C-FD59-2419CECFA1D4}"
+EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MassGuyProto.CSharp", "MassGuyProto.CSharp.csproj", "{251B5443-7D28-A784-D2C7-3A4B3637C9A9}"
 EndProject
 Global
@@ -9,6 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8EE74FE8-5AE6-FA1C-FD59-2419CECFA1D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EE74FE8-5AE6-FA1C-FD59-2419CECFA1D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EE74FE8-5AE6-FA1C-FD59-2419CECFA1D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EE74FE8-5AE6-FA1C-FD59-2419CECFA1D4}.Release|Any CPU.Build.0 = Release|Any CPU
 		{251B5443-7D28-A784-D2C7-3A4B3637C9A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{251B5443-7D28-A784-D2C7-3A4B3637C9A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{251B5443-7D28-A784-D2C7-3A4B3637C9A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
